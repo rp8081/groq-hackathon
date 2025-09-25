@@ -63,5 +63,8 @@ git clone https://github.com/yourusername/finance_agent.git
 cd finance_agent
 python -m venv venv
 venv\Scripts\activate      # Windows
+pip install -r requirements.txt
+python -m src.app
+
 
 
