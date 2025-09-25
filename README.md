@@ -1,7 +1,7 @@
 # 📈 Finance Agent – Multi-Modal Portfolio Rebalancer
 
 An advanced **LangGraph + LangChain-Groq** powered Finance Agent that helps you analyze, rebalance, and simulate portfolios with **agentic workflows**.  
-Built to be **hackathon-level complex** — modular, extensible, and ready for real-world finance integrations.
+
 
 ---
 
@@ -54,3 +54,4 @@ finance_agent/
 │       └── modality_preprocessors.py   # Voice/Image → Text (pipeline)
 │── requirements.txt
 │── README.md
+
