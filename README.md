@@ -55,13 +55,13 @@ finance_agent/
 │── requirements.txt
 │── README.md
 
-# 📈 Installation
+##  Usage
 
-### 🔧 Clone & Setup
+
 
 git clone https://github.com/yourusername/finance_agent.git
 cd finance_agent
 python -m venv venv
-source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
+
 
